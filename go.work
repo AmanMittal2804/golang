@@ -1,0 +1,9 @@
+go 1.21.0
+
+use (
+	./01_basic
+	./get
+	./handlingURL
+	./json
+	./webRequests
+)
