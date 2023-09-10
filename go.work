@@ -6,5 +6,6 @@ use (
 	./get
 	./handlingURL
 	./json
+	./mongodb
 	./webRequests
 )
